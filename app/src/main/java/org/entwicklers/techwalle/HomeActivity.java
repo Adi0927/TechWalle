@@ -16,7 +16,7 @@ public class HomeActivity extends ActionBarActivity {
 
     private ScaleGestureDetector scaleGestureDetector;
     private Matrix matrix = new Matrix();
-    private float scale = 1f; int s=0;
+    private float scale = 1f;
     ImageView defaultIMG;
 
     @Override
